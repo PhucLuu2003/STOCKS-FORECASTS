@@ -1,1 +1,1 @@
-# STOCKS-FORECASTS
+School Project in Machine learning
